@@ -1,0 +1,15 @@
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\Rec01.csproj.AssemblyReference.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\Rec01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\Rec01.AssemblyInfoInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\Rec01.AssemblyInfo.cs
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\Rec01.csproj.CoreCompileInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\bin\Debug\net6.0\Rec01.exe
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\bin\Debug\net6.0\Rec01.deps.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\bin\Debug\net6.0\Rec01.runtimeconfig.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\bin\Debug\net6.0\Rec01.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\bin\Debug\net6.0\Rec01.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\Rec01.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\refint\Rec01.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\Rec01.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\Rec01.genruntimeconfig.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework\Rec01\obj\Debug\net6.0\ref\Rec01.dll
